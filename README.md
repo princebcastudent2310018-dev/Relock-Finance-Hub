@@ -14,7 +14,7 @@ A modern web-based finance management application to track income, expenses, and
 
 - Frontend: HTML, CSS, JavaScript / TypeScript
 - Backend: Node.js (if used)
-- Platform: Replit
+  
 
 ## 📂 Project Structure
 # Relock-Finance-Hub
